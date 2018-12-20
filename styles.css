@@ -1,0 +1,22 @@
+#Alex{
+    width:300px;
+}
+
+#chimp{
+    width:300px;
+}
+#writing{
+    width:250px;
+}
+#weird{
+    width:250px;
+}
+body{
+    font-family: 'Major Mono Display', monospace;
+    color:white;
+    background-color: pink;
+    text-align: center;
+}
+.spells{
+    height: 250px;    
+}
